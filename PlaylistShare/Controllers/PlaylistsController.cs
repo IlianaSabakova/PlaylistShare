@@ -67,7 +67,7 @@ namespace PlaylistShare.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create(Playlist playlist)
+        public async Task<IActionResult> Create(int? id, Playlist playlist)
         {
             if (ModelState.IsValid)
             {

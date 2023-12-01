@@ -8445,11 +8445,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PU Projects\\PlaylistShare\\PlaylistShare\\PlaylistShare.csproj",
+      "projectUniqueName": "C:\\PU Projects\\New folder\\PlaylistShare\\PlaylistShare\\PlaylistShare.csproj",
       "projectName": "PlaylistShare",
-      "projectPath": "C:\\PU Projects\\PlaylistShare\\PlaylistShare\\PlaylistShare.csproj",
+      "projectPath": "C:\\PU Projects\\New folder\\PlaylistShare\\PlaylistShare\\PlaylistShare.csproj",
       "packagesPath": "C:\\Users\\liaax\\.nuget\\packages\\",
-      "outputPath": "C:\\PU Projects\\PlaylistShare\\PlaylistShare\\obj\\",
+      "outputPath": "C:\\PU Projects\\New folder\\PlaylistShare\\PlaylistShare\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\liaax\\AppData\\Roaming\\NuGet\\NuGet.Config",

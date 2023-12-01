@@ -13,6 +13,6 @@ namespace PlaylistShare.Entities
 
         public int? PlaylistId { get; set; }
 
-        public Playlist Playlist { get; set; }
+        public Playlist? Playlist { get; set; }
     }
 }

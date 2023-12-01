@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PlaylistShare")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e8c501b0bb806576c5a5407f5e56cdd49c686c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlaylistShare")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlaylistShare")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

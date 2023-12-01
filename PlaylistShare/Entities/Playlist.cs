@@ -15,6 +15,6 @@ namespace PlaylistShare.Entities
         [MaxLength(500)]
         public string Description { get; set; }
 
-        public List<Song> Songs { get; set; }
+        public List<Song>? Songs { get; set; }
     }
 }

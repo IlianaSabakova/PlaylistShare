@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U2GTmNBqTz2JaXHgdsFJ2EVAnAtSZ2aMvnLDLwe5FfdFbia67ZdcJvlhNFs3AvURrRyEbPGwrzydDhmmR2mNEw==",
+  "dgSpecHash": "WnVWw6asrc4S72HeNhcmnUwItms9yROj9lwqFMEy3Fu62LbEFhbwexydspyf+gYyVI7hsKbwHzUl0GdDPBz+tw==",
   "success": true,
-  "projectFilePath": "C:\\PU Projects\\PlaylistShare\\PlaylistShare\\PlaylistShare.csproj",
+  "projectFilePath": "C:\\PU Projects\\New folder\\PlaylistShare\\PlaylistShare\\PlaylistShare.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\liaax\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\liaax\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

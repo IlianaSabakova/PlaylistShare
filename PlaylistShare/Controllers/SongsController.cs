@@ -44,7 +44,7 @@ namespace PlaylistShare.Controllers
         // GET: Songs/Create
         public IActionResult Create()
         {
-            ViewData["PlaylistId"] = new SelectList(_context.Playlists, "PlaylistId", "Title");
+            ViewData["Id"] = new SelectList(_context.Playlists, "Id", "Title");
             return View();
         }
 
@@ -53,7 +53,7 @@ namespace PlaylistShare.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("SongId,Title,PlaylistId")] Song song)
+        public async Task<IActionResult> Create(Song song)
         {
             if (ModelState.IsValid)
             {
@@ -61,7 +61,7 @@ namespace PlaylistShare.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["PlaylistId"] = new SelectList(_context.Playlists, "PlaylistId", "Title", song.PlaylistId);
+            ViewData["Id"] = new SelectList(_context.Playlists, "Id", "Title", song.PlaylistId);
             return View(song);
         }
 
@@ -78,7 +78,7 @@ namespace PlaylistShare.Controllers
             {
                 return NotFound();
             }
-            ViewData["PlaylistId"] = new SelectList(_context.Playlists, "PlaylistId", "Title", song.PlaylistId);
+            ViewData["Id"] = new SelectList(_context.Playlists, "Id", "Title", song.PlaylistId);
             return View(song);
         }
 
@@ -87,7 +87,7 @@ namespace PlaylistShare.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("SongId,Title,PlaylistId")] Song song)
+        public async Task<IActionResult> Edit(int id, Song song)
         {
             if (id != song.Id)
             {

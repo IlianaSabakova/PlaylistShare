@@ -17,91 +17,91 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PlaylistShare
 build_property.RootNamespace = PlaylistShare
-build_property.ProjectDir = C:\PU Projects\PlaylistShare\PlaylistShare\
+build_property.ProjectDir = C:\PU Projects\New folder\PlaylistShare\PlaylistShare\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\PU Projects\PlaylistShare\PlaylistShare
+build_property.MSBuildProjectDirectory = C:\PU Projects\New folder\PlaylistShare\PlaylistShare
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/PU Projects/PlaylistShare/PlaylistShare/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/PU Projects/New folder/PlaylistShare/PlaylistShare/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/PU Projects/PlaylistShare/PlaylistShare/Pages/Error.cshtml]
+[C:/PU Projects/New folder/PlaylistShare/PlaylistShare/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/PU Projects/PlaylistShare/PlaylistShare/Pages/Index.cshtml]
+[C:/PU Projects/New folder/PlaylistShare/PlaylistShare/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/PU Projects/PlaylistShare/PlaylistShare/Pages/Privacy.cshtml]
+[C:/PU Projects/New folder/PlaylistShare/PlaylistShare/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/PU Projects/PlaylistShare/PlaylistShare/Pages/Shared/_LoginPartial.cshtml]
+[C:/PU Projects/New folder/PlaylistShare/PlaylistShare/Pages/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/PU Projects/PlaylistShare/PlaylistShare/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/PU Projects/New folder/PlaylistShare/PlaylistShare/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/PU Projects/PlaylistShare/PlaylistShare/Pages/_ViewImports.cshtml]
+[C:/PU Projects/New folder/PlaylistShare/PlaylistShare/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/PU Projects/PlaylistShare/PlaylistShare/Pages/_ViewStart.cshtml]
+[C:/PU Projects/New folder/PlaylistShare/PlaylistShare/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/PU Projects/PlaylistShare/PlaylistShare/Views/Playlists/Create.cshtml]
+[C:/PU Projects/New folder/PlaylistShare/PlaylistShare/Views/Playlists/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWxpc3RzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/PU Projects/PlaylistShare/PlaylistShare/Views/Playlists/Delete.cshtml]
+[C:/PU Projects/New folder/PlaylistShare/PlaylistShare/Views/Playlists/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWxpc3RzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/PU Projects/PlaylistShare/PlaylistShare/Views/Playlists/Details.cshtml]
+[C:/PU Projects/New folder/PlaylistShare/PlaylistShare/Views/Playlists/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWxpc3RzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/PU Projects/PlaylistShare/PlaylistShare/Views/Playlists/Edit.cshtml]
+[C:/PU Projects/New folder/PlaylistShare/PlaylistShare/Views/Playlists/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWxpc3RzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/PU Projects/PlaylistShare/PlaylistShare/Views/Playlists/Index.cshtml]
+[C:/PU Projects/New folder/PlaylistShare/PlaylistShare/Views/Playlists/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWxpc3RzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/PU Projects/PlaylistShare/PlaylistShare/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/PU Projects/New folder/PlaylistShare/PlaylistShare/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/PU Projects/PlaylistShare/PlaylistShare/Views/Songs/Create.cshtml]
+[C:/PU Projects/New folder/PlaylistShare/PlaylistShare/Views/Songs/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29uZ3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/PU Projects/PlaylistShare/PlaylistShare/Views/Songs/Delete.cshtml]
+[C:/PU Projects/New folder/PlaylistShare/PlaylistShare/Views/Songs/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29uZ3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/PU Projects/PlaylistShare/PlaylistShare/Views/Songs/Details.cshtml]
+[C:/PU Projects/New folder/PlaylistShare/PlaylistShare/Views/Songs/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29uZ3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/PU Projects/PlaylistShare/PlaylistShare/Views/Songs/Edit.cshtml]
+[C:/PU Projects/New folder/PlaylistShare/PlaylistShare/Views/Songs/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29uZ3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/PU Projects/PlaylistShare/PlaylistShare/Views/Songs/Index.cshtml]
+[C:/PU Projects/New folder/PlaylistShare/PlaylistShare/Views/Songs/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29uZ3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/PU Projects/PlaylistShare/PlaylistShare/Pages/Shared/_Layout.cshtml]
+[C:/PU Projects/New folder/PlaylistShare/PlaylistShare/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-74qkm09vfy
